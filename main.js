@@ -1,0 +1,1 @@
+https://teachablemachine.withgoogle.com/models/AOmtk41s8/
